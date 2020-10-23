@@ -40,8 +40,8 @@ public class Customer {
     
     // 1 завдання
     public void displayCustomerInfo(){
-         System.out.println("ID: " + this.id);
-          System.out.println("Status: " + this.isNew );
+        System.out.println("ID: " + this.id);
+        System.out.println("Status: " + this.isNew );
         System.out.println("Total purchases are: " + this.total);
     } 
 }
