@@ -38,6 +38,6 @@
   * **використати ці методи** в методі в методі ````main```` класу````CustomerTest````
   * зробити та зберегти (тека **Solution**) у файл ````advanced.png```` **скріншот** результатів роботи програми, та модифікувати файл ````README.md````відповідним чином
 
-# CustomerTest.java
+# Customer
 ![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-Rifleborn/blob/main/images/done.png)
 
