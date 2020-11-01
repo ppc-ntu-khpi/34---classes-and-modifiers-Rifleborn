@@ -35,7 +35,7 @@ public class Customer {
     }
 
     public void setTotal(float total) {
-        this.total = total;
+        if (total > 0) this.total = total;
     }
     
     // 1 завдання
